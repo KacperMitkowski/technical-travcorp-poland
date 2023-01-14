@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Simply Italy",
+        "countries": 4,
+        "days": 14,
+        "rating": 3.9,
+        "discountPrice": 2877,
+        "price": 3589,
+        "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/DF8D/production/_128292275_gettyimages-489142880.jpg"
+    },
+    {
+        "name": "Italian Espresso",
+        "countries": 3.6,
+        "days": 10,
+        "rating": 4.4,
+        "discountPrice": 1832,
+        "price": 2159,
+        "imageUrl": "https://www.tagesschau.de/ardimport/regional/sachsen/mdr-image-294251~_v-original.jpg"
+    },
+    {
+        "name": "European Quest",
+        "countries": 2,
+        "days": 3,
+        "rating": 5.0,
+        "discountPrice": 1245,
+        "price": 1465,
+        "imageUrl": null
+    },
+    {
+        "name": "Visit Poland",
+        "countries": 1,
+        "days": 7,
+        "rating": 4.3,
+        "discountPrice": 821,
+        "price": 1050,
+        "imageUrl": "https://bilder3.n-tv.de/img/incoming/crop23843878/1251328883-cImg_16_9-w1200/312582245.jpg"
+    },
+    {
+        "name": "Visit Chechia",
+        "countries": 3,
+        "days": 10,
+        "rating": 3.5,
+        "discountPrice": 900,
+        "price": 1210,
+        "imageUrl": "https://cdn.xsd.cz/original/447e9b1a7e4b3e828ebb0129a5ab38e9.jpg"
+    },
+    {
+        "name": "Explore Asia",
+        "countries": 5,
+        "days": 21,
+        "rating": 4.9,
+        "discountPrice": 2300,
+        "price": 2921,
+        "imageUrl": "https://www.tagesspiegel.de/politik/images/protest-against-the-expansion-of-the-garzweiler-open-cast-lignite-mine-of-germanys-utility-rwe-in-luetzerath/alternates/BASE_16_9_W1400/protest-against-the-expansion-of-the-garzweiler-open-cast-lignite-mine-of-germanys-utility-rwe-in-luetzerath.jpeg"
+    },
+    {
+        "name": "Romanian's must have",
+        "countries": 1,
+        "days": 5,
+        "rating": 3.5,
+        "discountPrice": 1211,
+        "price": 1350,
+        "imageUrl": "https://i.ytimg.com/vi/rK-pMS1qtgc/maxresdefault.jpg"
+    },
+    {
+        "name": "Montecarlo",
+        "countries": 2,
+        "days": 14,
+        "rating": 4.5,
+        "discountPrice": 1822,
+        "price": 2142,
+        "imageUrl": "https://i.eurosport.com/2023/01/13/3525415-71855468-2560-1440.jpg"
+    },
+    {
+        "name": "Egipt - Hurghada Holiday Tour",
+        "countries": 1,
+        "days": 14,
+        "rating": 4.5,
+        "discountPrice": 1201,
+        "price": 1590,
+        "imageUrl": "https://bilder3.n-tv.de/img/incoming/crop23843870/8471327044-cImg_16_9-w1200/254462537.jpg"
+    },
+    {
+        "name": "Albania without rush",
+        "countries": 2,
+        "days": 12,
+        "rating": 4.5,
+        "discountPrice": 1422,
+        "price": 1921,
+        "imageUrl": "https://www.ndr.de/nachrichten/info/maskenpflicht752_v-contentxl.jpg"
+    },
+    {
+        "name": "Visit USA",
+        "countries": 3,
+        "days": 28,
+        "rating": 4.9,
+        "discountPrice": 4922,
+        "price": 5500,
+        "imageUrl": null
+    },
+    {
+        "name": "Turkey - for season",
+        "countries": 2,
+        "days": 10,
+        "rating": 4.5,
+        "discountPrice": 1701,
+        "price": 2096,
+        "imageUrl": "https://www.tagesschau.de/multimedia/bilder/scholz-al-sudani-103~_v-original.jpg"
+    },
+    {
+        "name": "Bulgaria, Romania, Moldova",
+        "countries": 3,
+        "days": 15,
+        "rating": 4.1,
+        "discountPrice": 1292,
+        "price": 1654,
+        "imageUrl": "https://bilder3.n-tv.de/img/incoming/crop23843682/6171321075-cImg_16_9-w1200/64be7cb6363d0183355247e6e89fe0f0.jpg"
+    }
+]
